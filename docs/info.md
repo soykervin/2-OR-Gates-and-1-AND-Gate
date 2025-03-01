@@ -9,12 +9,12 @@ You can also include images in this folder and reference them in the markdown. E
 
 ## How it works
 
-Explain how your project works
+2 OR Gates and 1 AND Gate
 
 ## How to test
 
-Explain how to use your project
+Turning on the LED using OR and AND Gates by switching the switches given
 
 ## External hardware
 
-List external hardware used in your project (e.g. PMOD, LED display, etc), if any
+1 LED
